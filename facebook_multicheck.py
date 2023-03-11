@@ -33,11 +33,11 @@ print "# Just provide a seed phone number the app will generate the rest ^_^"
 print "Note: - Phone number can be entered in different format as long as the three input are filled with just one phone number"
 
 
-email = str(raw_input("# Enter |First Three Digit of Phone number|: "))
-passwordlist = int(raw_input("# Enter |Middle Digit of Phone number|:  "))
-last = str(raw_input("# Enter |Last Two Digits of Phone number|:  "))
+email = str(raw_input(" 018 "))
+passwordlist = int(raw_input(" 183246  "))
+last = str(raw_input(" 28 "))
 
-number = int(raw_input("number if account "))
+number = int(raw_input("5000 "))
 
 
 
